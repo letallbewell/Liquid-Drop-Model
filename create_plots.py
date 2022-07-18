@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import plotly.graph_objects as go
 from tqdm.auto import tqdm
-import matplotlib.gridspec as gridspec
 import plotly.express as px
 
 # Load elements list
