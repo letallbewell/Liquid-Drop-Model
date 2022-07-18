@@ -25,6 +25,11 @@ Fermi-Gas Model ](http://atlas.physics.arizona.edu/~shupe/Indep_Studies_2015/Not
 
 ## Interactive Plot
 
+Open **Binding Energy Per Nucleon (Interactive).html** in a web browser after running the code.
+
+<p float="center">
+  <img src="Interactive Plot Screenshot.png" width="700" />
+</p>
 # Running the code
 
 ## Install requirements
