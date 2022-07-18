@@ -30,6 +30,7 @@ Open **Binding Energy Per Nucleon (Interactive).html** in a web browser after ru
 <p float="center">
   <img src="Interactive Plot Screenshot.png" width="700" />
 </p>
+
 # Running the code
 
 ## Install requirements
