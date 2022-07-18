@@ -19,8 +19,8 @@ The liquid drop model
 Fermi-Gas Model ](http://atlas.physics.arizona.edu/~shupe/Indep_Studies_2015/Notes_Goethe_Univ/A2_Nuclear_Models_LiqDrop_FermiGas.pdf) or any standard nucler physics textbook.
 
 <p float="left">
-  <img src="/Binding Energy 2D projection.png" width="300" />
-  <img src="Binding Energy vs Mass Number.png" width="300" /> 
+  <img src="/Binding Energy 2D projection.png" width="250" />
+  <img src="Binding Energy vs Mass Number.png" width="250" /> 
 </p>
 
 ## Interactive Plot
@@ -28,7 +28,7 @@ Fermi-Gas Model ](http://atlas.physics.arizona.edu/~shupe/Indep_Studies_2015/Not
 Open **Binding Energy Per Nucleon (Interactive).html** in a web browser after running the code.
 
 <p float="center">
-  <img src="Interactive Plot Screenshot.png" width="700" />
+  <img src="Interactive Plot Screenshot fake.png" width="700" />
 </p>
 # Running the code
 
