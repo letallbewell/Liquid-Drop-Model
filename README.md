@@ -14,9 +14,9 @@ $$E_{B} = a_{V} A - a_{S} A^{2/3} - a_{C} \frac{Z^2}{A^{\frac{1}{3}}} - a_{Sym} 
 
 These parameters are empirically set to $a_{V} = 16 MeV$, $a_{S} = 20 MeV$, $a_{C} = 0.75 MeV$, $a_{Sym} = 21 MeV$, and $\delta = \pm 11.2 MeV \text{or} 0$ depending on the eveness of $Z$ and $A$. 
 
-For more detailed discussion see [Nuclear models:
+For a more detailed discussion, see [Nuclear models:
 The liquid drop model
-Fermi-Gas Model ](http://atlas.physics.arizona.edu/~shupe/Indep_Studies_2015/Notes_Goethe_Univ/A2_Nuclear_Models_LiqDrop_FermiGas.pdf) or any standard nucler physics textbook.
+Fermi-Gas Model ](http://atlas.physics.arizona.edu/~shupe/Indep_Studies_2015/Notes_Goethe_Univ/A2_Nuclear_Models_LiqDrop_FermiGas.pdf) or any standard nuclear physics textbook.
 
 <p float="left">
   <img src="/Binding Energy 2D projection.png" width="250" />
@@ -37,7 +37,7 @@ Open **Binding Energy Per Nucleon (Interactive).html** in a web browser after ru
 ```bash
 pip3 install -r requirements.txt
 ```
-## Get element symmbols from wikipedia and save it to *Elements.csv*
+## Get element symbols from Wikipedia and save them to *Elements.csv*
 ```bash
 python get_elements.py
 ```
